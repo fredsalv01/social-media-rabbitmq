@@ -1,0 +1,554 @@
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T00:53:48.448Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T00:53:48.452Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T00:53:48.452Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/register","service":"api-gateway","timestamp":"2025-02-16T01:00:18.908Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-02-16T01:00:18.909Z"}
+{"level":"info","message":"Response received from identity-service: 404","service":"api-gateway","timestamp":"2025-02-16T01:00:18.926Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:01:49.351Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:01:49.354Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:01:49.354Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:03:39.638Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:03:39.641Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:03:39.642Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:03:42.851Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:03:42.855Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:03:42.856Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:03:45.191Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:03:45.194Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:03:45.194Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:03:49.673Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:03:49.676Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:03:49.677Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:05:17.238Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:05:17.241Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:05:17.241Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/register","service":"api-gateway","timestamp":"2025-02-16T01:05:48.139Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-02-16T01:05:48.139Z"}
+{"level":"info","message":"Response received from identity-service: 404","service":"api-gateway","timestamp":"2025-02-16T01:05:48.148Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:06:45.400Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:06:45.404Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:06:45.405Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:06:47.874Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:06:47.877Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:06:47.877Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:06:52.835Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:06:52.838Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:06:52.839Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:08:11.812Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:08:11.816Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:08:11.816Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/register","service":"api-gateway","timestamp":"2025-02-16T01:08:18.659Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-02-16T01:08:18.660Z"}
+{"level":"info","message":"Response received from identity-service: 201","service":"api-gateway","timestamp":"2025-02-16T01:08:18.731Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:09:00.670Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:09:00.673Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:09:00.674Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:09:02.451Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:09:02.454Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:09:02.455Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:09:04.023Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:09:04.027Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:09:04.028Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-16T01:09:04.650Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-16T01:09:04.654Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-16T01:09:04.654Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/register","service":"api-gateway","timestamp":"2025-02-16T01:10:24.779Z"}
+{"level":"info","message":"Request body, {\n  \"username\": \"fredsalv\",\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-16T01:10:24.779Z"}
+{"level":"info","message":"Response received from identity-service: 201","service":"api-gateway","timestamp":"2025-02-16T01:10:24.842Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-16T01:30:34.499Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-16T01:30:34.500Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-16T01:30:34.593Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/refresh-token","service":"api-gateway","timestamp":"2025-02-16T02:28:26.591Z"}
+{"level":"info","message":"Request body, {\n  \"refreshToken\": \"5728851bffac70a640b93119bd8426f44b518c5438d3e878405556826ba8c4ba66d635e8ed76f5c4\"\n}","service":"api-gateway","timestamp":"2025-02-16T02:28:26.593Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-16T02:28:26.657Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/refresh-token","service":"api-gateway","timestamp":"2025-02-16T02:33:17.899Z"}
+{"level":"info","message":"Request body, {\n  \"refreshToken\": \"88bd07b08b17f05ffc6be73956b8b5c066d9b3ae0565a8e40b96e287d74db4ab37b8d65b509b4fc8\"\n}","service":"api-gateway","timestamp":"2025-02-16T02:33:17.899Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-16T02:33:17.946Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/logout","service":"api-gateway","timestamp":"2025-02-16T02:34:19.964Z"}
+{"level":"info","message":"Request body, {\n  \"refreshToken\": \"f32c8cdd628132f64734c6b94adf501509f0fa2a8d55e898223192682142d46ae626773fe98042b0\"\n}","service":"api-gateway","timestamp":"2025-02-16T02:34:19.964Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-16T02:34:19.978Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-16T02:34:41.930Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-16T02:34:41.931Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-16T02:34:41.993Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-17T22:03:46.318Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-17T22:03:46.321Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-17T22:03:46.321Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-17T22:03:46.321Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-17T22:04:49.002Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-17T22:04:49.002Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-17T22:04:49.284Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:06:48.705Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-17T22:06:48.705Z"}
+{"level":"warn","message":"Access attempt without valid token!","service":"api-gateway","timestamp":"2025-02-17T22:06:48.706Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:08:40.046Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-17T22:08:40.047Z"}
+{"level":"info","message":"Response received from post-service: 500","service":"api-gateway","timestamp":"2025-02-17T22:08:40.178Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:09:28.774Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-17T22:09:28.774Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-17T22:09:28.774Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:10:50.445Z"}
+{"level":"info","message":"Request body, {\n  \"content\": \"hello\"\n}","service":"api-gateway","timestamp":"2025-02-17T22:10:50.446Z"}
+{"level":"info","message":"Response received from post-service: 201","service":"api-gateway","timestamp":"2025-02-17T22:10:50.472Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:42:25.317Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-17T22:42:25.317Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-17T22:42:25.318Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-17T22:42:34.061Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-17T22:42:34.061Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-17T22:42:34.150Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:42:43.708Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-17T22:42:43.708Z"}
+{"level":"info","message":"Response received from post-service: 400","service":"api-gateway","timestamp":"2025-02-17T22:42:43.738Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-17T22:43:10.049Z"}
+{"level":"info","message":"Request body, {\n  \"content\": \"second post\"\n}","service":"api-gateway","timestamp":"2025-02-17T22:43:10.049Z"}
+{"level":"info","message":"Response received from post-service: 201","service":"api-gateway","timestamp":"2025-02-17T22:43:10.081Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-18T04:01:25.584Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-18T04:01:25.588Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:01:25.817Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/posts","service":"api-gateway","timestamp":"2025-02-18T04:01:44.358Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:01:44.358Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:01:44.571Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/","service":"api-gateway","timestamp":"2025-02-18T04:02:26.802Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:02:26.802Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:02:26.824Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:02:43.570Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:02:43.570Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:02:43.596Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=2&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:02:48.218Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:02:48.219Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:02:48.230Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:02:53.126Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:02:53.126Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:02:53.132Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:17.154Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:17.155Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:17.169Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:18.312Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:18.312Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:18.317Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:18.925Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:18.925Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:18.930Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:19.508Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:19.508Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:19.514Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:20.048Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:20.049Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:20.054Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:20.466Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:20.466Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:20.471Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:20.911Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:20.911Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:20.916Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:21.253Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:21.253Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:21.258Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:21.512Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:21.513Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:21.519Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:21.743Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:21.744Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:21.748Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:21.948Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:21.948Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:21.952Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-18T04:09:22.117Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-18T04:09:22.117Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-18T04:09:22.122Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-20T19:05:40.047Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-20T19:05:40.052Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-20T19:05:40.052Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-20T19:05:40.053Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-20T19:06:07.707Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-20T19:06:07.710Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-20T19:06:07.711Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-20T19:06:07.711Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-20T19:28:28.276Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-20T19:28:28.277Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:28:28.487Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=1","service":"api-gateway","timestamp":"2025-02-20T19:28:47.620Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:28:47.621Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:28:47.741Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=10","service":"api-gateway","timestamp":"2025-02-20T19:28:55.678Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:28:55.678Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:28:55.690Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3bb7e5a5d733dbe137e25","service":"api-gateway","timestamp":"2025-02-20T19:29:30.050Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:29:30.051Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-20T19:29:30.052Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3bb7e5a5d733dbe137e25","service":"api-gateway","timestamp":"2025-02-20T19:29:41.930Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:29:41.930Z"}
+{"level":"info","message":"Response received from post-service: 404","service":"api-gateway","timestamp":"2025-02-20T19:29:41.940Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3bb7e5a5d733dbe137e25","service":"api-gateway","timestamp":"2025-02-20T19:34:38.178Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:34:38.179Z"}
+{"level":"info","message":"Response received from post-service: 404","service":"api-gateway","timestamp":"2025-02-20T19:34:38.204Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:35:00.779Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:35:00.779Z"}
+{"level":"info","message":"Response received from post-service: 404","service":"api-gateway","timestamp":"2025-02-20T19:35:00.788Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:36:33.554Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:36:33.555Z"}
+{"level":"info","message":"Response received from post-service: 404","service":"api-gateway","timestamp":"2025-02-20T19:36:33.582Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:37:04.333Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:37:04.334Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:37:04.367Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:06.164Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:06.164Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-20T19:39:06.165Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-20T19:39:10.609Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-20T19:39:10.610Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:10.665Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:26.238Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:26.238Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:26.246Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:27.772Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:27.772Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:27.778Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:28.575Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:28.575Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:28.580Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:29.200Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:29.200Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:29.206Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:39:29.774Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:39:29.774Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:39:29.779Z"}
+{"level":"info","message":"Recieved DELETE request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:43:47.108Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:43:47.109Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-20T19:43:47.149Z"}
+{"level":"info","message":"Recieved DELETE request to /v1/posts/67b3b3ea533da25e6a621b01","service":"api-gateway","timestamp":"2025-02-20T19:43:59.872Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-20T19:43:59.872Z"}
+{"level":"info","message":"Response received from post-service: 404","service":"api-gateway","timestamp":"2025-02-20T19:43:59.879Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:02:36.513Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:02:36.516Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:02:36.516Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:02:36.516Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:02:39.664Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:02:39.667Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:02:39.667Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:02:39.668Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:02:42.679Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:02:42.683Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:02:42.683Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:02:42.684Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:20.909Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:20.912Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:20.912Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:20.912Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:31.570Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:31.573Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:31.573Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:31.574Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:36.794Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:36.797Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:36.798Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:36.798Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:38.690Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:38.693Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:38.694Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:38.694Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:43.963Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:43.967Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:43.967Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:43.967Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:51.248Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:51.251Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:51.251Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:51.252Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:05:55.122Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:05:55.125Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:05:55.126Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:05:55.126Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:06:17.157Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:06:17.160Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:06:17.161Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:06:17.161Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:06:23.522Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:06:23.526Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:06:23.526Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:06:23.527Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:06:58.449Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:06:58.452Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:06:58.453Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:06:58.453Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:07:39.682Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:07:39.685Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:07:39.685Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:07:39.685Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:07:39.685Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:07:42.800Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:07:42.804Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:07:42.804Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:07:42.805Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:07:42.805Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:07:48.584Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:07:48.587Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:07:48.587Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:07:48.588Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:07:48.588Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-21T01:10:37.250Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-21T01:10:37.251Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-21T01:10:37.429Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:12:43.908Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:12:43.911Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:12:43.911Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:12:43.912Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:12:43.912Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:14:48.765Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:14:48.766Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:14:48.770Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:15:19.779Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:15:19.779Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:15:19.781Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:15:51.551Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:15:51.551Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:15:51.552Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:16:45.854Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:16:45.858Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:16:45.859Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:16:45.859Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:16:45.859Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:17:26.233Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:17:26.234Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:17:26.238Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:17:52.113Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:17:52.114Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:17:52.115Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:17:53.221Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:17:53.221Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:17:53.223Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:17:53.434Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:17:53.434Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:17:53.435Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:17:53.590Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:17:53.590Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:17:53.592Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:18:17.244Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:18:17.248Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:18:17.248Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:18:17.249Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:18:17.249Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:18:25.918Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:18:25.922Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:18:25.922Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:18:25.922Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:18:25.923Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:18:39.469Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:18:39.473Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:18:39.473Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:18:39.474Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:18:39.474Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:18:53.638Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:18:53.641Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:18:53.642Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:18:53.642Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:18:53.642Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:19:04.663Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:19:04.664Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:19:04.667Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:20:31.586Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:20:31.587Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:20:31.588Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:20:33.177Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:20:33.177Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:20:33.179Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:20:33.439Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:20:33.439Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:20:33.441Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:20:33.800Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:20:33.801Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:20:33.802Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:21:15.542Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:21:15.543Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-21T01:21:15.544Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-21T01:21:18.480Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-21T01:21:18.481Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-21T01:21:18.542Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:21:40.892Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:21:40.893Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:21:40.894Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:22:09.698Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:22:09.701Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:22:09.702Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:22:09.702Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:22:09.702Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:22:18.683Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:22:18.687Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:22:18.687Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:22:18.687Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:22:18.688Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:22:36.199Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:22:36.199Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:22:36.204Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:22:37.009Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:22:37.009Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:22:37.011Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:22:37.176Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:22:37.176Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:22:37.178Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:22:45.399Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:22:45.403Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:22:45.403Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:22:45.403Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:22:45.404Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:22:51.297Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:22:51.300Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:22:51.300Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:22:51.301Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:22:51.301Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:22:58.205Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:22:58.205Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:22:58.209Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:23:08.124Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:23:08.128Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:23:08.128Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:23:08.128Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:23:08.129Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:23:10.912Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:23:10.913Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-21T01:23:10.918Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:23:28.302Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:23:28.305Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:23:28.306Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:23:28.306Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:23:28.306Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:23:32.300Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:23:32.303Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:23:32.303Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:23:32.303Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:23:32.304Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:23:37.137Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:23:37.137Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:23:37.190Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:24:08.190Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:24:08.191Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:24:08.198Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:24:48.918Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:24:48.921Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:24:48.921Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:24:48.921Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:24:48.922Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:24:53.982Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:24:53.985Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:24:53.985Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:24:53.985Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:24:53.986Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:24:56.861Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:24:56.864Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:24:56.864Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:24:56.864Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:24:56.865Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:25:01.370Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:25:01.373Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:25:01.374Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:25:01.374Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:25:01.374Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:25:24.552Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:25:24.552Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:25:24.578Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:25:53.213Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:25:53.216Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:25:53.216Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:25:53.217Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:25:53.217Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:26:01.912Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:26:01.915Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:26:01.915Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:26:01.916Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:26:01.916Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:26:04.333Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:26:04.334Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:26:04.349Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:26:12.881Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:26:12.884Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:26:12.884Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:26:12.884Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:26:12.885Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:26:16.009Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:26:16.010Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:26:16.023Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:26:28.911Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:26:28.915Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:26:28.915Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:26:28.915Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:26:28.916Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:26:35.525Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:26:35.526Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:26:35.537Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:27:53.471Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:27:53.471Z"}
+{"level":"info","message":"Response received from media-service: 404","service":"api-gateway","timestamp":"2025-02-21T01:27:53.477Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T01:30:30.651Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T01:30:30.654Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T01:30:30.654Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T01:30:30.654Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T01:30:30.655Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:30:54.111Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:30:54.111Z"}
+{"level":"info","message":"Response received from media-service: 500","service":"api-gateway","timestamp":"2025-02-21T01:30:55.116Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:32:03.352Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:32:03.352Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-21T01:32:03.353Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-21T01:32:20.115Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-21T01:32:20.116Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-21T01:32:20.175Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:32:28.753Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:32:28.753Z"}
+{"level":"info","message":"Response received from media-service: 500","service":"api-gateway","timestamp":"2025-02-21T01:32:29.771Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:33:24.147Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:33:24.147Z"}
+{"level":"info","message":"Response received from media-service: 500","service":"api-gateway","timestamp":"2025-02-21T01:33:25.051Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:35:33.780Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:35:33.780Z"}
+{"level":"info","message":"Response received from media-service: 500","service":"api-gateway","timestamp":"2025-02-21T01:35:34.857Z"}
+{"level":"info","message":"Recieved POST request to /v1/media/upload","service":"api-gateway","timestamp":"2025-02-21T01:36:48.174Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:36:48.174Z"}
+{"level":"info","message":"Response received from media-service: 201","service":"api-gateway","timestamp":"2025-02-21T01:36:49.252Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-21T01:43:26.258Z"}
+{"level":"info","message":"Request body, {\n  \"content\": \"New Post - Chameleon Tattoo\",\n  \"mediaIds\": [\n    \"67b13b00fc5f8cb4a04a066d\"\n  ]\n}","service":"api-gateway","timestamp":"2025-02-21T01:43:26.258Z"}
+{"level":"warn","message":"Invalid token!","service":"api-gateway","timestamp":"2025-02-21T01:43:26.259Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-21T01:43:28.982Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-21T01:43:28.982Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-21T01:43:29.049Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-21T01:43:37.447Z"}
+{"level":"info","message":"Request body, {\n  \"content\": \"New Post - Chameleon Tattoo\",\n  \"mediaIds\": [\n    \"67b13b00fc5f8cb4a04a066d\"\n  ]\n}","service":"api-gateway","timestamp":"2025-02-21T01:43:37.447Z"}
+{"level":"info","message":"Response received from post-service: 400","service":"api-gateway","timestamp":"2025-02-21T01:43:37.478Z"}
+{"level":"info","message":"Recieved POST request to /v1/posts/create-post","service":"api-gateway","timestamp":"2025-02-21T01:44:11.202Z"}
+{"level":"info","message":"Request body, {\n  \"content\": \"New Post - Chameleon Tattoo\",\n  \"mediaIds\": [\n    \"67b13b00fc5f8cb4a04a066d\"\n  ]\n}","service":"api-gateway","timestamp":"2025-02-21T01:44:11.202Z"}
+{"level":"info","message":"Response received from post-service: 201","service":"api-gateway","timestamp":"2025-02-21T01:44:11.246Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=10","service":"api-gateway","timestamp":"2025-02-21T01:45:38.007Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:45:38.007Z"}
+{"level":"info","message":"Response received from post-service: 500","service":"api-gateway","timestamp":"2025-02-21T01:45:38.050Z"}
+{"level":"info","message":"Recieved GET request to /v1/posts?page=1&limit=10","service":"api-gateway","timestamp":"2025-02-21T01:48:55.592Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-21T01:48:55.592Z"}
+{"level":"info","message":"Response received from post-service: 200","service":"api-gateway","timestamp":"2025-02-21T01:48:55.632Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T23:09:21.656Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T23:09:21.659Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T23:09:21.660Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T23:09:21.660Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T23:09:21.660Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-21T23:12:27.983Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-21T23:12:27.986Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-21T23:12:27.987Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-21T23:12:27.987Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-21T23:12:27.987Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-23T03:42:43.357Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-23T03:42:43.360Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-23T03:42:43.361Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-23T03:42:43.361Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-23T03:42:43.361Z"}
+{"level":"info","message":"Recieved GET request to /v1/media","service":"api-gateway","timestamp":"2025-02-23T03:44:07.042Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-23T03:44:07.043Z"}
+{"level":"warn","message":"Access attempt without valid token!","service":"api-gateway","timestamp":"2025-02-23T03:44:07.043Z"}
+{"level":"info","message":"Recieved POST request to /v1/auth/login","service":"api-gateway","timestamp":"2025-02-23T03:44:41.747Z"}
+{"level":"info","message":"Request body, {\n  \"email\": \"fredalbertm37@gmail.com\",\n  \"password\": \"Josdav&fred37\"\n}","service":"api-gateway","timestamp":"2025-02-23T03:44:41.748Z"}
+{"level":"info","message":"Response received from identity-service: 200","service":"api-gateway","timestamp":"2025-02-23T03:44:41.950Z"}
+{"level":"info","message":"Recieved GET request to /v1/media","service":"api-gateway","timestamp":"2025-02-23T03:44:57.547Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-23T03:44:57.547Z"}
+{"level":"error","message":"Proxy error: Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-02-23T03:44:57.552Z"}
+{"level":"info","message":"API Gateway running on port 3000","service":"api-gateway","timestamp":"2025-02-23T03:45:34.924Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3001","service":"api-gateway","timestamp":"2025-02-23T03:45:34.927Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3002","service":"api-gateway","timestamp":"2025-02-23T03:45:34.928Z"}
+{"level":"info","message":"Proxying requests to http://localhost:3003","service":"api-gateway","timestamp":"2025-02-23T03:45:34.928Z"}
+{"level":"info","message":"Redis Url redis://localhost:6379","service":"api-gateway","timestamp":"2025-02-23T03:45:34.928Z"}
+{"level":"info","message":"Recieved GET request to /v1/media","service":"api-gateway","timestamp":"2025-02-23T03:46:05.734Z"}
+{"level":"info","message":"Request body, {}","service":"api-gateway","timestamp":"2025-02-23T03:46:05.734Z"}
+{"level":"info","message":"Response received from media-service: 200","service":"api-gateway","timestamp":"2025-02-23T03:46:05.764Z"}

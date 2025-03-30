@@ -1,0 +1,282 @@
+{"level":"info","message":"Post Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:01:58.914Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:01:58.992Z"}
+{"level":"info","message":"Post Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:02:16.147Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:02:16.165Z"}
+{"level":"info","message":"Post Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:30:00.019Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:30:00.043Z"}
+{"level":"info","message":"Post Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:30:05.959Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:30:05.980Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"media-service","timestamp":"2025-02-21T01:30:54.123Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-21T01:30:54.123Z"}
+{"level":"info","message":"Starting uploading media to Cloudinary","service":"media-service","timestamp":"2025-02-21T01:30:54.131Z"}
+{"level":"info","message":"File details: name=undefined, type=undefined","service":"media-service","timestamp":"2025-02-21T01:30:54.131Z"}
+{"level":"info","message":"Cloudinary upload result: hrpbm3fmomdgxupgqc6o","service":"media-service","timestamp":"2025-02-21T01:30:55.112Z"}
+{"level":"error","message":"Error while uploading media to Cloudinary Media is not defined","service":"media-service","stack":"ReferenceError: Media is not defined\n    at uploadMedia (D:\\social-media\\media-service\\src\\controller\\media-controller.js:25:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-21T01:30:55.112Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:31:39.989Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:31:40.011Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:31:45.858Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:31:45.876Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"media-service","timestamp":"2025-02-21T01:32:28.759Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-21T01:32:28.759Z"}
+{"level":"info","message":"Starting uploading media to Cloudinary","service":"media-service","timestamp":"2025-02-21T01:32:28.770Z"}
+{"level":"info","message":"File details: name=undefined, type=undefined","service":"media-service","timestamp":"2025-02-21T01:32:28.770Z"}
+{"level":"info","message":"Cloudinary upload result: toj8g5mnqnu5xwymeyrr","service":"media-service","timestamp":"2025-02-21T01:32:29.767Z"}
+{"level":"error","message":"Error while uploading media to Cloudinary Media is not defined","service":"media-service","stack":"ReferenceError: Media is not defined\n    at uploadMedia (D:\\social-media\\media-service\\src\\controller\\media-controller.js:25:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-21T01:32:29.768Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:33:03.250Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:33:03.276Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"media-service","timestamp":"2025-02-21T01:33:24.153Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-21T01:33:24.153Z"}
+{"level":"info","message":"Starting uploading media to Cloudinary","service":"media-service","timestamp":"2025-02-21T01:33:24.162Z"}
+{"level":"info","message":"File details: name=undefined, type=undefined","service":"media-service","timestamp":"2025-02-21T01:33:24.162Z"}
+{"level":"info","message":"Cloudinary upload result: wr2ru2fhh0syui7qzivy","service":"media-service","timestamp":"2025-02-21T01:33:25.041Z"}
+{"_message":"Media validation failed","errors":{"mimeType":{"kind":"required","message":"Path `mimeType` is required.","name":"ValidatorError","path":"mimeType","properties":{"message":"Path `mimeType` is required.","path":"mimeType","type":"required"}},"originalName":{"kind":"required","message":"Path `originalName` is required.","name":"ValidatorError","path":"originalName","properties":{"message":"Path `originalName` is required.","path":"originalName","type":"required"}}},"level":"error","message":"Error while uploading media to Cloudinary Media validation failed: originalName: Path `originalName` is required., mimeType: Path `mimeType` is required.","service":"media-service","stack":"ValidationError: Media validation failed: originalName: Path `originalName` is required., mimeType: Path `mimeType` is required.\n    at Document.invalidate (D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-02-21T01:33:25.048Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:35:16.641Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:35:16.664Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:35:20.257Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:35:20.284Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:35:21.330Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:35:21.352Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"media-service","timestamp":"2025-02-21T01:35:33.785Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-21T01:35:33.786Z"}
+{"level":"info","message":"Starting uploading media to Cloudinary","service":"media-service","timestamp":"2025-02-21T01:35:33.794Z"}
+{"level":"info","message":"File details: name=undefined, type=undefined","service":"media-service","timestamp":"2025-02-21T01:35:33.796Z"}
+{"level":"info","message":"Cloudinary upload result: lfnp1jbkfygfkxhacobh","service":"media-service","timestamp":"2025-02-21T01:35:34.843Z"}
+{"_message":"Media validation failed","errors":{"mimeType":{"kind":"required","message":"Path `mimeType` is required.","name":"ValidatorError","path":"mimeType","properties":{"message":"Path `mimeType` is required.","path":"mimeType","type":"required"}},"originalName":{"kind":"required","message":"Path `originalName` is required.","name":"ValidatorError","path":"originalName","properties":{"message":"Path `originalName` is required.","path":"originalName","type":"required"}}},"level":"error","message":"Error while uploading media to Cloudinary Media validation failed: originalName: Path `originalName` is required., mimeType: Path `mimeType` is required.","service":"media-service","stack":"ValidationError: Media validation failed: originalName: Path `originalName` is required., mimeType: Path `mimeType` is required.\n    at Document.invalidate (D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\document.js:3329:32)\n    at D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\document.js:3090:17\n    at D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\schemaType.js:1407:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-02-21T01:35:34.852Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:35:53.582Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:35:53.603Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:36:00.624Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:36:00.645Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:36:04.813Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:36:04.833Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:36:18.582Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:36:18.602Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T01:36:38.760Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-21T01:36:38.783Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"media-service","timestamp":"2025-02-21T01:36:48.182Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-21T01:36:48.183Z"}
+{"level":"info","message":"Starting uploading media to Cloudinary","service":"media-service","timestamp":"2025-02-21T01:36:48.193Z"}
+{"level":"info","message":"File details: name=Chameleon tribal vector image on VectorStock.jpg, type=image/jpeg","service":"media-service","timestamp":"2025-02-21T01:36:48.196Z"}
+{"level":"info","message":"Cloudinary upload result: rvz6sht98mworl7jvcyw","service":"media-service","timestamp":"2025-02-21T01:36:49.237Z"}
+{"level":"info","message":"Media uploaded successfully","service":"media-service","timestamp":"2025-02-21T01:36:49.250Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T23:09:52.991Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","level":"error","message":"Unhandled Rejection at:","service":"media-service","timestamp":"2025-02-21T23:10:03.691Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-21T23:12:50.914Z"}
+{"errorLabelSet":{},"level":"error","message":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":636983519,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"media-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\connection.js:1163:11)\n    at NativeConnection.openUri (D:\\social-media\\media-service\\node_modules\\mongoose\\lib\\connection.js:1094:11)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:540:9)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"2025-02-21T23:13:20.921Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-22T00:57:50.303Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-22T00:57:50.326Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T03:42:43.041Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T03:42:43.059Z"}
+{"level":"info","message":"Recieved GET request to /api/media","service":"media-service","timestamp":"2025-02-23T03:46:05.746Z"}
+{"level":"info","message":"Request body, [object Object]","service":"media-service","timestamp":"2025-02-23T03:46:05.747Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T03:58:48.493Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T03:58:48.515Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:00:52.472Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:00:52.493Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:02.581Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:02.601Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:06.225Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:06.246Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:14.475Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:14.497Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:26.608Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:26.634Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:28.066Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:28.089Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:34.126Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:34.149Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:38.463Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:38.488Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:39.483Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:39.504Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:42.073Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:42.097Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:01:45.124Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:01:45.144Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:02:02.611Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:02:02.634Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:02:08.626Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:02:08.650Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:02:57.401Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:02:57.422Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:00.695Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:00.715Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:25.620Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:25.641Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:34.700Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:34.722Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:42.316Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:42.337Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:44.226Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:44.249Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:46.605Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:46.627Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:03:53.655Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:03:53.676Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:04.586Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:04.607Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:07.487Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:07.510Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:22.213Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:22.237Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:26.503Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:26.529Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:28.568Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:28.588Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:35.234Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:35.255Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:43.133Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:43.159Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:52.495Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:52.519Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:53.958Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:53.981Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:04:55.903Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:04:55.939Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:00.844Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:00.866Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:02.747Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:02.768Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:08.913Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:08.941Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:10.161Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:10.186Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:11.691Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:11.716Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:23.105Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:23.129Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:28.549Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:28.571Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:31.911Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:31.936Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:36.655Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:36.681Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:05:37.784Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:05:37.806Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:11.782Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:11.816Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:16.177Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:16.203Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:23.080Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:23.102Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:28.918Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:28.943Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:30.356Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:30.383Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:06:35.585Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:06:35.610Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:07:11.686Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:11.709Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:16.792Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:19.008Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:24.422Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:28.552Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:32.239Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:36.401Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:41.863Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:45.245Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:07:56.540Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:07:56.570Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:08:05.663Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:08:05.683Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:08:11.608Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:08:11.630Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:08:14.021Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:08:14.040Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:08:14.043Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:10.909Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:10.923Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:13.884Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:13.899Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:13.929Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:13.931Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:16.947Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:16.963Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:16.968Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:16.970Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:25.202Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:25.218Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:25.221Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:25.223Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:30.722Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:30.738Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:30.742Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:30.744Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:32.804Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:32.820Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:32.827Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:32.830Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:33.795Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:33.811Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:33.815Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:33.817Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:37.138Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:37.155Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:37.159Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:37.162Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:41.019Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:41.037Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:41.041Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:41.043Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:09:56.744Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:09:56.763Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:09:56.768Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:09:56.771Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:10:04.230Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:10:04.245Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:10:04.249Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:10:04.251Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:10:34.464Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:10:34.480Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:10:34.483Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:10:34.486Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:10:40.938Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:10:40.955Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:10:40.960Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:10:40.964Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:10:45.128Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:10:45.145Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:10:45.149Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:10:45.151Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:10:56.849Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:10:56.868Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:10:56.872Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:10:56.874Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:05.452Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:05.467Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:05.471Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:05.474Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:07.303Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:07.318Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:07.323Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:07.325Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:09.192Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:09.210Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:09.213Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:09.216Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:10.400Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:10.416Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:10.422Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:10.424Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:15.559Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:15.578Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:15.581Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:15.584Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:18.765Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:18.780Z"}
+{"level":"error","message":"Error while consuming event from RabbitMQ channel.bidnQueue is not a function","service":"media-service","stack":"TypeError: channel.bidnQueue is not a function\n    at consumeEvent (D:\\social-media\\media-service\\src\\utils\\rabbitmq.js:43:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async startServer (D:\\social-media\\media-service\\src\\server.js:79:5)","timestamp":"2025-02-23T04:11:18.784Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:11:18.786Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:11:25.186Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:11:25.203Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:12:07.934Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:12:07.949Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:12:53.613Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:12:53.631Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:12:54.990Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:12:55.008Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:13:41.393Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:13:41.410Z"}
+{"level":"info","message":"Connected to MongoDB","service":"media-service","timestamp":"2025-02-23T04:18:50.704Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"media-service","timestamp":"2025-02-23T04:18:50.720Z"}
+{"level":"info","message":"Waiting for messages in queue: amq.gen-OCSFcwS-rI2YsEIFGSUL1Q","service":"media-service","timestamp":"2025-02-23T04:18:50.727Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-23T04:18:50.728Z"}
+{"level":"info","message":"Media Service running on port 3003","service":"media-service","timestamp":"2025-02-23T04:18:50.730Z"}

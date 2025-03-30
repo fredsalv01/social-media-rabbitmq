@@ -1,0 +1,475 @@
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T16:34:23.812Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T16:34:23.836Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-17T22:08:40.158Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-17T22:08:40.160Z"}
+{"level":"error","message":"Error creating post: Post validation failed: content: Path `content` is required.","service":"post-service","timestamp":"2025-02-17T22:08:40.174Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-17T22:10:50.449Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-17T22:10:50.449Z"}
+{"level":"info","message":"Post created successfully: {\n  user: new ObjectId('67b13b00fc5f8cb4a04a066d'),\n  content: 'hello',\n  mediaIds: [],\n  _id: new ObjectId('67b3b3ea533da25e6a621b01'),\n  createdAt: 2025-02-17T22:10:50.451Z,\n  updatedAt: 2025-02-17T22:10:50.451Z,\n  __v: 0\n}","service":"post-service","timestamp":"2025-02-17T22:10:50.471Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:03.489Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:03.503Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:32.232Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:32.253Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:37.836Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:37.857Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:40.041Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:40.060Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:46.316Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:46.336Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:50.402Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:50.428Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:56.179Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:56.199Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:33:58.185Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:33:58.204Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:34:00.285Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:34:00.309Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:34:06.865Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:34:06.886Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:34:09.692Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:34:09.722Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:34:11.195Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:34:11.219Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:34:12.094Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:34:12.114Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:35:01.009Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:35:01.029Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:35:05.066Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:35:05.088Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:35:36.332Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:35:36.351Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:35:38.527Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:35:38.548Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-17T22:36:06.142Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-17T22:36:06.163Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-17T22:42:43.726Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-17T22:42:43.727Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-02-17T22:42:43.731Z"}
+{"0":"\"","1":"c","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"o","20":"d","3":"n","4":"t","5":"e","6":"n","7":"t","8":"\"","9":" ","level":"warn","message":"Validation error","service":"post-service","timestamp":"2025-02-17T22:42:43.735Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-17T22:43:10.053Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-17T22:43:10.054Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-02-17T22:43:10.056Z"}
+{"level":"info","message":"Post created successfully: {\n  user: new ObjectId('67b13b00fc5f8cb4a04a066d'),\n  content: 'second post',\n  mediaIds: [],\n  _id: new ObjectId('67b3bb7e5a5d733dbe137e25'),\n  createdAt: 2025-02-17T22:43:10.062Z,\n  updatedAt: 2025-02-17T22:43:10.062Z,\n  __v: 0\n}","service":"post-service","timestamp":"2025-02-17T22:43:10.079Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:19.456Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:19.487Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:23.272Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:23.292Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:29.492Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:29.514Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:33.545Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:33.568Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:39.191Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:39.221Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:46.313Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:46.341Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:55:56.616Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:55:56.638Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:05.374Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:05.396Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:07.920Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:07.940Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:11.323Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:11.345Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:15.145Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:15.167Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:38.378Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:38.399Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:42.778Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:42.802Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:44.509Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:44.530Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:56:46.613Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:56:46.634Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:02.305Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:02.325Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:04.289Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:04.310Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:18.238Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:18.267Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:26.036Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:26.058Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:33.551Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:33.575Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:35.335Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:35.356Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:41.710Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:41.731Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:49.547Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:49.569Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:57:52.329Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:57:52.352Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:13.418Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:13.468Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:15.334Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:15.361Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:19.420Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:19.444Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:20.870Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:20.891Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:32.746Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:32.767Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:51.082Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:51.104Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:53.495Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:53.517Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:58:56.395Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:58:56.416Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:02.859Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:02.883Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:04.142Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:04.165Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:27.277Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:27.297Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:29.944Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:29.965Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:40.562Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:40.583Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:46.709Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:46.731Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:48.179Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:48.199Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:56.565Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:56.588Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T03:59:58.404Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T03:59:58.425Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T04:00:03.100Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T04:00:03.120Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T04:00:06.646Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T04:00:06.666Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T04:00:32.612Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T04:00:32.633Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T04:00:33.902Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T04:00:33.924Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/posts","service":"post-service","timestamp":"2025-02-18T04:01:44.530Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:01:44.531Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-18T04:02:21.081Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-18T04:02:21.100Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/","service":"post-service","timestamp":"2025-02-18T04:02:26.818Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:02:26.818Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:02:43.576Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:02:43.576Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=2&limit=1","service":"post-service","timestamp":"2025-02-18T04:02:48.223Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:02:48.223Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:02:53.129Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:02:53.130Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:17.159Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:17.160Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:18.315Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:18.315Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:18.928Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:18.928Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:19.512Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:19.512Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:20.051Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:20.052Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:20.469Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:20.469Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:20.914Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:20.914Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:21.256Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:21.256Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:21.517Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:21.517Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:21.746Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:21.746Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:21.950Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:21.950Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-18T04:09:22.119Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-18T04:09:22.119Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:06:31.544Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:06:31.562Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:08:04.543Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:08:04.566Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:03.443Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:03.468Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:05.554Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:05.578Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:07.031Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:07.059Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:08.761Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:08.782Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:10.753Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:10.772Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:13.720Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:13.743Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:15.237Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:15.262Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:25.981Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:26.002Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:30.172Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:30.193Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:09:52.214Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:09:52.239Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:10:03.688Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:10:03.711Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:10:11.469Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:10:11.490Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:10:14.736Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:10:14.756Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:10:19.958Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:10:19.979Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:10:28.929Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:10:28.954Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:17:48.686Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:17:48.712Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:17:59.814Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:17:59.836Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:01.673Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:01.694Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:20.803Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:20.825Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:35.962Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:35.995Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:36.990Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:37.012Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:39.572Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:39.594Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:42.415Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:42.435Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:18:58.129Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:18:58.151Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:05.858Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:05.878Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:11.575Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:11.598Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:14.200Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:14.222Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:24.716Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:24.740Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:27.429Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:27.449Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:31.632Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:31.656Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:19:42.197Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:19:42.218Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:20:22.064Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:20:22.097Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:21:09.846Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:21:09.868Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=1","service":"post-service","timestamp":"2025-02-20T19:28:47.717Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:28:47.718Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=10","service":"post-service","timestamp":"2025-02-20T19:28:55.682Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:28:55.682Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3bb7e5a5d733dbe137e25","service":"post-service","timestamp":"2025-02-20T19:29:41.935Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:29:41.935Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:34:32.410Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:34:32.432Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:34:34.104Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:34:34.129Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3bb7e5a5d733dbe137e25","service":"post-service","timestamp":"2025-02-20T19:34:38.191Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:34:38.192Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:34:38.194Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:35:00.782Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:35:00.782Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:35:00.783Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:35:59.471Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:35:59.493Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:00.574Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:00.595Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:06.631Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:06.655Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:24.997Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:25.021Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:28.115Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:28.138Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:29.269Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:29.288Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:36:33.568Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:36:33.568Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:36:33.571Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:51.092Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:51.112Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:36:53.137Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:36:53.158Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:37:04.348Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:37:04.348Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:37:04.351Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:39:26.242Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:39:26.242Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:39:26.244Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:39:27.775Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:39:27.776Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:39:27.777Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:39:28.578Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:39:28.578Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:39:28.579Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:39:29.204Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:39:29.204Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:39:29.205Z"}
+{"level":"info","message":"Recieved GET request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:39:29.777Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:39:29.777Z"}
+{"level":"info","message":"Get post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:39:29.778Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:39:56.811Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:39:56.831Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:40:06.589Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:40:06.610Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:02.481Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:02.502Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:05.667Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:05.691Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:07.288Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:07.317Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:10.444Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:10.464Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:17.561Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:17.592Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:20.563Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:20.585Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:27.993Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:28.014Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:33.811Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:33.832Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:35.236Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:35.258Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:36.664Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:36.686Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:42.822Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:42.846Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:43.961Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:43.982Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:49.874Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:49.900Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:51.375Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:51.397Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:41:52.780Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:41:52.802Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:42:09.890Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:42:09.914Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:42:19.681Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:42:19.705Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:42:21.066Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:42:21.092Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-20T19:42:28.284Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-20T19:42:28.309Z"}
+{"level":"info","message":"Recieved DELETE request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:43:47.134Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:43:47.135Z"}
+{"level":"info","message":"Delete post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:43:47.140Z"}
+{"level":"info","message":"Post deleted successfully: {\n  _id: new ObjectId('67b3b3ea533da25e6a621b01'),\n  user: new ObjectId('67b13b00fc5f8cb4a04a066d'),\n  content: 'hello',\n  mediaIds: [],\n  createdAt: 2025-02-17T22:10:50.451Z,\n  updatedAt: 2025-02-17T22:10:50.451Z,\n  __v: 0\n}","service":"post-service","timestamp":"2025-02-20T19:43:47.156Z"}
+{"level":"info","message":"Recieved DELETE request to /api/posts/67b3b3ea533da25e6a621b01","service":"post-service","timestamp":"2025-02-20T19:43:59.885Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-20T19:43:59.885Z"}
+{"level":"info","message":"Delete post endpoint hit...","service":"post-service","timestamp":"2025-02-20T19:43:59.886Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:23:37.172Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:23:37.177Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:24:08.194Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:24:08.195Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:25:24.574Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:25:24.574Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:26:04.346Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:26:04.346Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:26:16.020Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:26:16.020Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:26:35.535Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:26:35.535Z"}
+{"level":"info","message":"Recieved POST request to /api/media/upload","service":"post-service","timestamp":"2025-02-21T01:27:53.474Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:27:53.475Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:40:44.544Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:40:44.564Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:40:46.926Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:40:46.946Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:40:48.482Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:40:48.516Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T01:43:37.466Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:43:37.466Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-02-21T01:43:37.470Z"}
+{"0":"\"","1":"m","10":" ","11":"i","12":"s","13":" ","14":"n","15":"o","16":"t","17":" ","18":"a","19":"l","2":"e","20":"l","21":"o","22":"w","23":"e","24":"d","3":"d","4":"i","5":"a","6":"I","7":"d","8":"s","9":"\"","level":"warn","message":"Validation error","service":"post-service","timestamp":"2025-02-21T01:43:37.474Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:43:59.095Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:43:59.118Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:44:00.972Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:44:00.996Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:44:03.304Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:44:03.326Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:44:04.334Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:44:04.354Z"}
+{"level":"info","message":"Recieved POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-02-21T01:44:11.215Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:44:11.216Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-02-21T01:44:11.220Z"}
+{"level":"info","message":"Post created successfully: {\n  user: new ObjectId('67b13b00fc5f8cb4a04a066d'),\n  content: 'New Post - Chameleon Tattoo',\n  mediaIds: [ new ObjectId('67b13b00fc5f8cb4a04a066d') ],\n  _id: new ObjectId('67b7da6bb04d15cb2fb677b4'),\n  createdAt: 2025-02-21T01:44:11.227Z,\n  updatedAt: 2025-02-21T01:44:11.227Z,\n  __v: 0\n}","service":"post-service","timestamp":"2025-02-21T01:44:11.243Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:45:13.764Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:45:13.791Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:45:15.297Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:45:15.321Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:45:17.306Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:45:17.329Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:45:20.008Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:45:20.028Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=10","service":"post-service","timestamp":"2025-02-21T01:45:38.021Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:45:38.021Z"}
+{"level":"error","message":"Error fetching post: Schema hasn't been registered for model \"Media\".\nUse mongoose.model(name, schema)","service":"post-service","timestamp":"2025-02-21T01:45:38.047Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T01:48:48.204Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-21T01:48:48.224Z"}
+{"level":"info","message":"Recieved GET request to /api/posts?page=1&limit=10","service":"post-service","timestamp":"2025-02-21T01:48:55.607Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-02-21T01:48:55.608Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T23:09:42.595Z"}
+{"0":"r","1":"e","2":"a","3":"s","4":"o","5":"n","6":":","level":"error","message":"Unhandled Rejection at:","service":"post-service","timestamp":"2025-02-21T23:09:53.326Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-21T23:12:34.326Z"}
+{"errorLabelSet":{},"level":"error","message":"connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":636966956,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"post-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (D:\\social-media\\post-service\\node_modules\\mongoose\\lib\\connection.js:1163:11)\n    at NativeConnection.openUri (D:\\social-media\\post-service\\node_modules\\mongoose\\lib\\connection.js:1094:11)","timestamp":"2025-02-21T23:13:04.326Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-22T00:57:44.596Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-22T00:57:44.629Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:20:54.990Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:20:54.995Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:21:29.860Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:21:29.864Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:21:29.881Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:49:32.607Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:49:32.624Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:49:32.626Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:50:03.240Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:50:03.259Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:50:03.261Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:50:05.559Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:50:05.576Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:50:05.578Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:50:14.465Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:50:14.481Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:50:14.483Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:50:17.541Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:50:17.558Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:50:17.560Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:50:49.034Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:50:49.052Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:50:49.055Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:55:31.361Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:55:31.381Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:55:31.382Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:55:32.492Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:55:32.512Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:55:32.514Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:06.186Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:06.208Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:06.210Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:10.761Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:10.777Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:10.779Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:15.125Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:15.143Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:15.145Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:19.990Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:20.007Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:20.010Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:23.178Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:23.198Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:23.200Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:25.911Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:25.928Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:25.930Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:35.816Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:35.833Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:35.835Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:53.745Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:53.766Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:53.769Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:56:59.425Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:56:59.442Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:56:59.444Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:57:07.421Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:57:07.437Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:57:07.438Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:57:11.297Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:57:11.317Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:57:11.320Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:57:13.865Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:57:13.886Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:57:13.888Z"}
+{"level":"info","message":"Connected to MongoDB","service":"post-service","timestamp":"2025-02-23T03:57:26.150Z"}
+{"level":"info","message":"Connected to RabbitMQ","service":"post-service","timestamp":"2025-02-23T03:57:26.170Z"}
+{"level":"info","message":"Post Service running on port 3002","service":"post-service","timestamp":"2025-02-23T03:57:26.172Z"}
